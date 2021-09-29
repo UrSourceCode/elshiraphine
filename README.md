@@ -1,7 +1,10 @@
-![Kiyotaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkiyotaka&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkiyotaka&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamkiyotaka&color=bc6ec4&label=PROFILE+VIEWS&&style=flat"> </img>
+ </p>
+<p align="center"> Yo! Hi there 👋 I am <b>Kiyotaka Ayanokōji</b></p>
 
-### Hi there, I am Kiyotaka 👋
-
-Yo! </br>
-![visitor](https://komarev.com/ghpvc/?username=iamkiyotaka&color=gray)
+### Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkiyotaka&show_icons=true&theme=nightowl&count_private=true&hide=issues"> </img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkiyotaka&layout=compact&theme=nightowl"> </img>
+ </p>
