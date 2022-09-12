@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elshiraphine&color=bc6ec4&label=PROFILE+VIEWS&&style=flat"> </img>
- </p>
 <p align="center"> Yo! Hi there 👋 I am <b>Kiyotaka Ayanokōji</b></p>
 
 ### Statistics
