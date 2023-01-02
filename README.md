@@ -1,1 +1,1 @@
-an ordinary student
+an ordinary computer science student
